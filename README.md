@@ -1,1 +1,1 @@
-# cdk-crud-examples
+A CDK TypeScript project with an example how to define and use a common layer with lambda utilities (GET, PUT and DELETE).
